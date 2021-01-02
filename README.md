@@ -1,2 +1,2 @@
 # hello-world
-Testing git hub repository
+This is just for testing git hub repository features like branching.
